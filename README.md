@@ -41,10 +41,11 @@
     cd nebula2
     ```
 
-6. Edit `bot.json`:
+6. Edit `bot.js`:
     ```
     nano bot.js
     ```
+    To save the edit u need to tap: || ctrl || x || y || enter
 
 7. Install the necessary dependencies for the project defined in `package.json`:
     ```
